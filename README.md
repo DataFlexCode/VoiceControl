@@ -29,7 +29,7 @@ although for the best bar experience I'd stick to the English speakers! 😉
 For the prices for your round of drinks in the currency of your choice, you
 will need to get your browser to send the appropriate language code (en-US, 
 en-GB, etc.) to the server.  In Chrome you can do this in settings: Advanced;
-Language; Add Language; Move to Top.  In Edge it is in Settings; Hambutger
+Language; Add Language; Move to Top.  In Edge it is in Settings; Hamburger
 Menu; Languages.  You'll have to reload the web app for that to take effect.
 
 There are a range of drinks on offer.  I have hard-coded these in an array to
