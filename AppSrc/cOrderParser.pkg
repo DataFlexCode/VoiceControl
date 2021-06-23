@@ -61,6 +61,7 @@ Class cOrderParser is a cObject
         Send AddDrink "lemon"        0.45
         Send AddDrink "prosecco"     4.90
         Send AddDrink "cava"         4.50
+        Send AddDrink "bushmills"    5.90
     End_Procedure
     
     Procedure AddDrink String sName Number nPrice
