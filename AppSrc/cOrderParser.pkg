@@ -1,14 +1,12 @@
 ﻿Use UI
 Use GlobalFunctionsProcedures.pkg
 
-#IFNDEF _struct_stItem
-    Struct stItem
+Struct stItem
         String  sItem
         Integer iQty
         Number  nPrice
         Number  nTotal
-    End_Struct
-#ENDIF
+End_Struct
 
 #IFNDEF C_Digits
     Define C_Digits for "0123456789"
